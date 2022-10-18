@@ -15,6 +15,7 @@ In order to run the server:
 Tasks:
 1) In this assignment, you have to find the bugs in the client and server and fix them.
 2) You will also need to write tests for the client and server functionality (from existing test templates + extra).
+3) Database: Instead of using the entities file, create a table in some sql-oriented db (like: mysql) and create data access mechanism.
 3) Bonus: Some code can be refactored using best-practices
 
 Emphasis:
