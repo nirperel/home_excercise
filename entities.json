@@ -1,6 +1,1 @@
-{
-    "Menny": {"id": 1, "title": "manager", "salary": 20000},
-    "Yossi": {"id": 2, "title": "developer", "salary": 15000},
-    "Monica": {"id": 3, "title": "developer", "salary": 17000},
-    "Lee": {"id":  5, "title": "secretary", "salary": 8000}
-}
+{"Menny": {"id": 1, "title": "manager", "salary": 20000}, "Yossi": {"id": 2, "title": "developer", "salary": 15000}, "Monica": {"id": 3, "title": "developer", "salary": 17000}, "Lee": {"id": 5, "title": "secretary", "salary": 8000}, "gil": {"title": "worker", "salary": 50000, "id": 826}, "gil573": {"title": "worker", "salary": 50000, "id": 636}, "gil622": {"title": "worker", "salary": 50000, "id": 841}, "Manny": {"id": 715, "title": "manager", "salary": 20000}, "Jhonny": {"id": 867, "title": "manager", "salary": 20000}, "gil285": {"id": 126, "title": "worker", "salary": 50000}, "gil89": {"id": 732, "title": "worker", "salary": 50000}, "test_name": {"id": 361, "title": "worker", "salary": 50000}}
